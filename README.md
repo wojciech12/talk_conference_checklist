@@ -19,10 +19,11 @@
 
 ## Parties / Social events
 
+- [ ] use the QR code in LinkedIN mobile app to quickly exchange contacts;
 - [ ] the first 3 "drinks" non-alkoholic;
 - [ ] set up a timer when you want to come back to the hotel room (3 - early, mid, and final);
 - [ ] count the alkoholic drinks (have a max for an event);
-- [ ] use the QR code in LinkedIN mobile app to quickly exchange contacts.
+- [ ] before the social event, try to find time to get back to room, take shower, listen to some music, itp.
 
 ## At the venue / at the conference
 
